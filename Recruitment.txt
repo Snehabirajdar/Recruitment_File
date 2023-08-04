@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recruitment Startup - Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Recruitment Startup</h1>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#jobs">Job Listings</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+  
+  <main>
+    <section id="hero">
+      <div class="container">
+        <h2>Find Your Dream Job</h2>
+        <p>We connect top talent with leading companies worldwide.</p>
+        <a href="#jobs" class="btn">Explore Jobs</a>
+      </div>
+    </section>
+
+    <section id="about">
+      <div class="container">
+        <h2>About Us</h2>
+        <p>"Coursify”, Is a Certified Company, Which Follows A Centre Right Ideology That Candidates Are Superior Then The Clients. This Is In Stark Contrast To The Left Wing Ideology Of All Consultancies Who Boast About Their Relationship With The Clients And They Believe Their Success Is OnlyBecause Of Their Clients. We Have A Contrary View But At The Same Time We Also Value Our Clients Only After Ensuring The Candidate Is Happy. This Makes Us A Centre Right Wing Consultancy.</p>
+      </div>
+    </section>
+
+    <section id="services">
+      <div class="container">
+        <h2>Our Services</h2>
+        <ul>
+          <li>Software Engineers Recruitment</li>
+          <li>Product Managers Hiring</li>
+          <li>Data Scientist Positions</li>
+          
+        </ul>
+      </div>
+    </section>
+
+    <section id="jobs">
+      <div class="container">
+        <h2>Featured Job Listings</h2>
+        
+        <div class="job-listing">
+          <h3>Software Engineer</h3>
+          <p>Company: ABC Tech</p>
+          <p>Location: Bangalore, India</p>
+          <a href="#" class="btn">Apply Now</a>
+        </div>
+        <div class="job-listing">
+          <h3>Product Manager</h3>
+          <p>Company: XYZ Solutions</p>
+          <p>Location: San Francisco, USA</p>
+          <a href="#" class="btn">Apply Now</a>
+        </div>
+        
+    
+    </section>
+    <section id="Contact">
+      <div class="container">
+        <h2>Contact Us</h2>
+        <p>Contact us at coursify.india@gmail.com </p>
+    
+        
+
+      </div>
+
+    </section>
+  </main>
+
+  
+
+</body>
+</html>
